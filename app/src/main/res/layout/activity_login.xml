@@ -47,4 +47,10 @@
         android:text="@string/login"
         android:id="@+id/login"/>
 
+    <CheckBox
+        android:id="@+id/rememberAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="記住帳號" />
+
 </androidx.appcompat.widget.LinearLayoutCompat>
